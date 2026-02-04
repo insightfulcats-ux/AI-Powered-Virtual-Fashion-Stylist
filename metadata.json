@@ -1,0 +1,7 @@
+{
+  "name": "LuminaStyle AI",
+  "description": "Your AI-powered virtual fashion stylist for personalized outfit recommendations, body analysis, and virtual try-ons.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
